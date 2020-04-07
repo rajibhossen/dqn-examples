@@ -7,5 +7,7 @@ Working examples of Deep Q Network of Reinforcement Learning.The purpose of this
 
 -[blob-image-dqn.py](blob-image-dqn.py): Example of blob image and deep q learning. inputs are images. All the states, actions, rewards are explained in this [tutorial](https://pythonprogramming.net/deep-q-learning-dqn-reinforcement-learning-python-tutorial/)
 
+-[snake game](https://github.com/maurock/snake-ga): Snake Game with DQN is explained in this repository. You can find the corresponding tutorial in this [link](https://towardsdatascience.com/how-to-teach-an-ai-to-play-games-deep-reinforcement-learning-28f9b920440a)
+
 #### This repo will be updated continuously. 
 
