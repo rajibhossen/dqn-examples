@@ -1,4 +1,4 @@
-# dqn-examples
+# Deep Q Network Examples
 Working examples of Deep Q Network of Reinforcement Learning.The purpose of this repository is to collect some easy-to-follow tutorials of DQN. These tutorials are well explained and good for newcomers in RL like me.  I put appropriate credit in the corresponding python file. 
 
 -[mountain-car-dqn.py](mountain-car-dqn.py): Deep Q network example of mountain car environment. All the states, actions, reward and code structure are described in this [tutorial](https://adventuresinmachinelearning.com/reinforcement-learning-tensorflow/)
